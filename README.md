@@ -5,4 +5,7 @@ The project does not require any library, you can start now with:
 ```markdown
 python semantic_v0.1.py
 ```
-
+you can also run this command to see what's difference:
+```markdown
+python semantic_v0.2.py
+```
