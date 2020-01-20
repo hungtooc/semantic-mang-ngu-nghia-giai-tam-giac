@@ -5,7 +5,7 @@ The project does not require any library, you can start now with:
 ```markdown
 python semantic_v0.1.py
 ```
-you can also run this command to see what's difference:
+in version 0.2, we added BFS search to optimize the program to return the bestest result. You can run this command to see what's difference:
 ```markdown
 python semantic_v0.2.py
 ```
