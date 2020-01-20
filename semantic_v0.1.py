@@ -1,5 +1,5 @@
-'''' Bản quyền thuộc về Nguyễn Xuân Hưng - hung59349214@gmail.com - HCMUS''''
-'''' trích dẫn nguồn khi sao chép''''
+''' Bản quyền thuộc về Nguyễn Xuân Hưng - hung59349214@gmail.com - HCMUS'''
+''' trích dẫn nguồn khi sao chép'''
 import time
 ''' CÔNG THỨC '''
 class CONGTHUC:
